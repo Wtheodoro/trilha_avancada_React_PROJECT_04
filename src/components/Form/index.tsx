@@ -18,12 +18,6 @@ const Form  = () => {
       .then(response => dispatch(getPosts(response.data)))
   }
 
-  const updatePosts = () => {
-    api.get(`/posts`)
-      .then(response => dispatch(getPosts(response.data)))
-      listPosts()
-  }
-
   const { name, username, userPicture } = useSelector((state: UserState) => state.user)
 
   const doPost = () => {
@@ -39,7 +33,7 @@ const Form  = () => {
       description: description,
       like: 0
     })
-    updatePosts()
+    listPosts()
 
   }
   return (
