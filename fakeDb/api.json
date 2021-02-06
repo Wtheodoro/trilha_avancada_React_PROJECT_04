@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "user": "Tony Stark",
+      "nickName": "Iron Maiden",
+      "userPicture": "https://static1.purebreak.com.br/articles/9/93/70/9/@/363145-tony-stark-robert-downey-jr-salvaria-diapo-2.jpg",
+      "postPicture": "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2019/08/IMG_20190827_003321.jpg?fit=640%2C360&ssl=1",
+      "description": "If you drink do not drive",
+      "likes": 87283721390
+    },
+    {
+      "id": 3,
+      "user": "Odin",
+      "nickName": "The father",
+      "userPicture": "https://aventurasnahistoria.uol.com.br/media/_versions/curiosidades/odin_papai_noel_capa_widelg.jpg",
+      "postPicture": "http://1.bp.blogspot.com/-QpmfbpzpCIc/VUbUyJlw6BI/AAAAAAAAjgU/lqsaJCXJ4vM/s1600/Mjolnir_by_fibacz.jpg",
+      "location": "Valhalla",
+      "description": "I bought a brand new toy for my strongest and most eletric son. Luv u my little Thor❤️.",
+      "likes": 5643
+    },
+    {
+      "id": 4,
+      "user": "Washington Luiz  Silva Santos",
+      "nickName": "Cumpadi Woshintu",
+      "userPicture": "https://amazonasatual.com.br/wp-content/uploads/2018/07/Compadre-Washington.png",
+      "postPicture": "https://muzeez-users.s3-accelerate.amazonaws.com/thumbs/histories/large/o5i6chofZRDBAN3hJ-concurso-a-nova-loira-do-tchan.jpg",
+      "location": "Bahia",
+      "description": "#TBT de uma época que tinha musica de verdade...",
+      "likes": 172
+    },
+    {
+      "user": "Joel Thomas Zimmerman",
+      "nickName": "Deadmau5",
+      "userPicture": "https://pbs.twimg.com/profile_images/1296188634404737031/RUJOD0mL_400x400.jpg",
+      "postPicture": "https://edm.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYxMTgzOTkwMjEwODk3MDcw/deadmau5-cube.jpg",
+      "description": "My next set show i'll be for you brazilians!!",
+      "like": 0,
+      "id": 5
+    }
+  ],
+  "stories": [
+    {
+      "id": 11,
+      "user": "JVNA",
+      "userPicture": "https://pbs.twimg.com/media/Dxuov-zU0AEWDvM.jpg",
+      "time": "há 2 minutos"
+    },
+    {
+      "id": 22,
+      "user": "Skrillex",
+      "userPicture": "http://t2.gstatic.com/images?q=tbn:ANd9GcREgWrsK0nHyo5OwQrslhCAVFb9hJeZkRJ_yTuHsRy2Wrp6FYOPOPDWSDOFHE_a",
+      "time": "online"
+    },
+    {
+      "id": 33,
+      "user": "SwedishHouseMafia",
+      "userPicture": "https://upload.wikimedia.org/wikipedia/commons/3/32/Swedish_house_mafia_2.jpg",
+      "time": "há 2 horas"
+    },
+    {
+      "id": 44,
+      "user": "Daft Punk",
+      "userPicture": "https://happymag.tv/wp-content/uploads/2019/08/daftpunk.jpg",
+      "time": "há 7 horas"
+    }
+  ],
+  "user": {
+    "name": "Joel Thomas Zimmerman",
+    "username": "Deadmau5",
+    "userPicture": "https://pbs.twimg.com/profile_images/1296188634404737031/RUJOD0mL_400x400.jpg"
+  }
+}
