@@ -13,7 +13,7 @@ const Posts = () => {
 
   const listPosts = () => {
     api.get(`/posts`)
-      .then(response => dispatch(getPosts(response.data)))
+      .then(response => dispatch(getPosts(response.data.reverse())))
   }
 
   const showLikes = (i: PostItemType) => {
