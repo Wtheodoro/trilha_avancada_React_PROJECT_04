@@ -31,7 +31,7 @@ const Form  = () => {
       userPicture: userPicture,
       postPicture: img,
       description: description,
-      like: 0
+      likes: 0
     })
     listPosts()
 
